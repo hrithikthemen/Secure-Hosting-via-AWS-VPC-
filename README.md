@@ -1,7 +1,7 @@
 
 ## Secure Hosting via AWS VPC
 
-This project demonstrates how to securely host a simple web application within an isolated and well-architected AWS Virtual Private Cloud (VPC) environment. The infrastructure is designed using core AWS networking and compute services, focusing on secure cloud deployment and network segmentation.
+This project demonstrates how to securely host a simple web application within an isolated and well-architected AWS Virtual Private Cloud (VPC) environment. The infrastructure is designed using AWS networking and compute services, focusing on secure cloud deployment and network segmentation.
 
 ### Services Used
 
